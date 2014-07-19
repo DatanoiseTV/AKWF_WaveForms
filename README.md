@@ -9,4 +9,4 @@ This duplicate is needed because the waveform generator uses linear interpolatio
 
 ![Waveforms](./preview.png?raw)
 
-All waveforms visualized: http://www.adventurekid.se/AKRTfiles/AKWF/view/waveforms_index.html
+All waveforms visualized: http://tech.datanoise.net/wavetool/
