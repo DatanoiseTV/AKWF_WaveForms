@@ -1,4 +1,4 @@
 First, you need to resample the samples from 600 to 256:
-sox input/$file output/$file tempo 2.34375
+for file in *.wav ; do sox -R $file resampled/$file repeat 2 speed 2.34375 rate trim 256s 256s ; done
 
 for file in $(ls *.wav|cut -d "." -f 1) ; do echo $file ; CATEGORY=$(echo $file|cut -d "_" -f "1-2") ; echo $CATEGORY ; python test.py $file.wav >> headers/$CATEGORY.h; done
