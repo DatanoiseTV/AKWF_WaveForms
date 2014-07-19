@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_squ7bit.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_squ7bit[1025] = {
+// Length: 257
+const int16_t AKWF_squ7bit[257] = {
  23331, 32767, 31175, 32767, 31728, 32767, 31955, 32767, 32108,
  32767, 32233, 32767, 32343, 32767, 32442, 32767, 32528, 32767, 32599,
  32767, 32657, 32725, 32699, 32664, 32725, 32614, 32741, 32577, 32741,

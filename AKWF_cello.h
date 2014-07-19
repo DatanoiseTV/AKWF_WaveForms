@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_cello_0001.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0001[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0001[257] = {
    -35,   782,  2274,  3066,  4472,  6150,  7266,  7481,  7257,
   6923,  6415,  5629,  4613,  3706,  3071,  3357,  4845,  7561, 10867,
  13533, 15696, 17734, 18669, 18854, 18760, 19617, 21384, 23526, 26659,
@@ -30,7 +31,8 @@ const int16_t AKWF_cello_0001[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0002.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0002[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0002[257] = {
    133,  1309,  2637,  3701,  4454,  5320,  6516,  6974,  7305,
   7527,  7366,  8563, 10025, 10893, 11924, 12533, 12942, 13658, 14252,
  14909, 15852, 16639, 18154, 20034, 21944, 23442, 24765, 25710, 26284,
@@ -60,7 +62,8 @@ const int16_t AKWF_cello_0002[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0003.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0003[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0003[257] = {
    252,  2032,  3058,  3459,  3794,  4564,  5812,  7217,  8476,
   9540, 10544, 11533, 12389, 12979, 13342, 13674, 14161, 14842, 15643,
  16492, 17388, 18331, 19258, 20051, 20622, 20965, 21121, 21124, 20984,
@@ -90,7 +93,8 @@ const int16_t AKWF_cello_0003[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0004.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0004[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0004[257] = {
    217,  1321,  1538,  2004,  2831,  3058,  4924,  7587, 10972,
  12922, 13868, 14440, 14373, 15943, 18599, 21768, 25294, 28259, 29203,
  29314, 29200, 29516, 29442, 29513, 30208, 31854, 32735, 31340, 29333,
@@ -120,7 +124,8 @@ const int16_t AKWF_cello_0004[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0005.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0005[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0005[257] = {
     57,  2418,  4137,  5997,  7615,  9335, 11127, 12967, 14752,
  16303, 17512, 18850, 20369, 21785, 23185, 24295, 24852, 24970, 24633,
  23861, 22778, 21310, 19583, 17629, 15568, 13471, 11357,  9155,  6921,
@@ -150,7 +155,8 @@ const int16_t AKWF_cello_0005[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0006.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0006[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0006[257] = {
    114,  1671,  3358,  5040,  6686,  8309,  9989, 11758, 13414,
  15004, 16419, 17565, 18388, 19222, 20050, 20865, 21617, 22309, 22812,
  23195, 23615, 24084, 24598, 25146, 25684, 26071, 26345, 26556, 26763,
@@ -180,7 +186,8 @@ const int16_t AKWF_cello_0006[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0007.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0007[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0007[257] = {
    218,  2712,  5377,  8152, 10897, 13512, 15972, 18112, 19904,
  21361, 22461, 23083, 23151, 22677, 21842, 20805, 19628, 18299, 16913,
  15644, 14466, 13447, 12660, 12102, 11795, 11707, 11729, 11930, 12241,
@@ -210,7 +217,8 @@ const int16_t AKWF_cello_0007[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0008.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0008[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0008[257] = {
    827,  3143,  5506,  7864,  9943, 11677, 12969, 13660, 13801,
  13481, 12669, 11481, 10136,  8697,  7429,  6536,  6105,  6309,  7219,
   8812, 11087, 13865, 17096, 20339, 23541, 26488, 28948, 30940, 32226,
@@ -240,7 +248,8 @@ const int16_t AKWF_cello_0008[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0009.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0009[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0009[257] = {
    906,  3229,  5605,  7957, 10024, 11737, 13003, 13677, 13797,
  13458, 12624, 11435, 10086,  8638,  7384,  6508,  6099,  6331,  7272,
   8893, 11195, 13991, 17219, 20473, 23675, 26596, 29045, 31004, 32261,
@@ -270,7 +279,8 @@ const int16_t AKWF_cello_0009[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0010.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0010[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0010[257] = {
    897,  3215,  5595,  7938, 10001, 11727, 12998, 13675, 13798,
  13464, 12635, 11441, 10094,  8645,  7394,  6516,  6100,  6328,  7266,
   8883, 11167, 13959, 17202, 20456, 23659, 26577, 29018, 30991, 32257,
@@ -300,7 +310,8 @@ const int16_t AKWF_cello_0010[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0011.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0011[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0011[257] = {
    450,  2477,  4083,  5713,  7092,  8313,  9243, 10166, 10862,
  11484, 12047, 12645, 13368, 14118, 15012, 16092, 17325, 18791, 20468,
  22326, 24283, 26301, 28185, 29740, 31066, 32092, 32635, 32767, 32513,
@@ -330,7 +341,8 @@ const int16_t AKWF_cello_0011[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0012.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0012[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0012[257] = {
     92,   504,   860,  1303,  1639,  1752,  1814,  1963,  2177,
   2184,  2199,  2319,  2034,  1872,  2081,  2406,  2407,  2624,  3067,
   3213,  3373,  3458,  3691,  4260,  4541,  4882,  5361,  5624,  6070,
@@ -360,7 +372,8 @@ const int16_t AKWF_cello_0012[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0013.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0013[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0013[257] = {
     77,  3147,  6321,  9726, 13011, 16281, 19247, 21976, 24304,
  26299, 27797, 28645, 28960, 28681, 27815, 26391, 24468, 22095, 19339,
  16322, 13195, 10025,  6887,  3899,  1133, -1281, -3314, -4975, -6214,
@@ -390,7 +403,8 @@ const int16_t AKWF_cello_0013[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0014.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0014[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0014[257] = {
    338,  4328,  8169, 11447, 13870, 15478, 16933, 18193, 19306,
  20380, 21359, 22400, 23698, 25028, 25991, 26257, 25903, 24935, 23377,
  21247, 18774, 16196, 13712, 11588,  9881,  8714,  8003,  7910,  8200,
@@ -420,7 +434,8 @@ const int16_t AKWF_cello_0014[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0015.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0015[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0015[257] = {
    432,  1592,  2470,  3025,  3349,  3539,  3673,  3660,  3606,
   3457,  3418,  3587,  3977,  4654,  5619,  6919,  8376,  9928, 11643,
  13264, 14799, 16201, 17191, 17762, 17928, 17780, 17261, 16541, 15694,
@@ -450,7 +465,8 @@ const int16_t AKWF_cello_0015[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0016.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0016[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0016[257] = {
     49,   368,   959,  1386,  1708,  1830,  1893,  1992,  2123,
   2178,  2313,  2522,  2743,  3003,  3412,  4128,  5101,  6384,  8092,
  10083, 12335, 14739, 17164, 19449, 21500, 23235, 24562, 25497, 25917,
@@ -480,7 +496,8 @@ const int16_t AKWF_cello_0016[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0017.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0017[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0017[257] = {
    291,  1541,  2964,  4635,  6580,  8811, 11253, 13819, 16474,
  19006, 21438, 23650, 25546, 27036, 28294, 29179, 29777, 30087, 30192,
  30163, 29995, 29878, 29758, 29686, 29587, 29430, 29205, 28887, 28369,
@@ -510,7 +527,8 @@ const int16_t AKWF_cello_0017[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0018.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0018[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0018[257] = {
    336,  2264,  4107,  5646,  6842,  7644,  8024,  8024,  7733,
   7165,  6460,  5815,  5354,  5155,  5312,  5790,  6614,  7739,  9063,
  10433, 11818, 13069, 14095, 14834, 15170, 15034, 14434, 13499, 12357,
@@ -540,7 +558,8 @@ const int16_t AKWF_cello_0018[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cello_0019.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cello_0019[1025] = {
+// Length: 257
+const int16_t AKWF_cello_0019[257] = {
     74,   670,  1442,  2194,  3059,  3938,  4842,  5749,  6730,
   7759,  8832,  9776, 10670, 11529, 12254, 12969, 13599, 14146, 14620,
  15011, 15428, 15754, 16066, 16421, 16754, 17133, 17657, 18313, 19028,

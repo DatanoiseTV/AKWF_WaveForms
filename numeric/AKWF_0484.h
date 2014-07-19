@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_0484.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_0484[1025] = {
+// Length: 257
+const int16_t AKWF_0484[257] = {
     22,   474,   939,  1400,  1845,  2278,  2696,  3096,  3495,
   3898,  4305,  4714,  5113,  5488,  5837,  6170,  6503,  6832,  7159,
   7462,  7738,  7991,  8221,  8435,  8651,  8871,  9092,  9314,  9518,

@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_1999.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_1999[1025] = {
+// Length: 257
+const int16_t AKWF_1999[257] = {
     13,   135,   298,   580,   871,  1162,  1453,  1744,  2034,
   2324,  2615,  2906,  3196,  3485,  3777,  4066,  4357,  4646,  4937,
   5225,  5512,  5739,  5950,  6163,  6371,  6585,  6796,  7007,  7218,

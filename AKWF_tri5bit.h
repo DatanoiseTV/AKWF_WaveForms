@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_tri5bit.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri5bit[1025] = {
+// Length: 257
+const int16_t AKWF_tri5bit[257] = {
   1377,  3831,  2842,  3553,  2963,  3489,  2999,  3478,  2991,
   3533,  2815,  4520,  9369,  9060,  9247,  9103,  9236,  9084,  9275,
   9008,  9416,  8645, 12223, 15731, 14701, 15378, 14830, 15314, 14844,

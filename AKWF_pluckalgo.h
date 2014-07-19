@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0001.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0001[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0001[257] = {
     40, 11905, 19430, 25568, 29106, 31285, 32153, 32612, 32695,
  32767, 32756, 32767, 32767, 32763, 32767, 32759, 32767, 32755, 32767,
  32754, 32767, 32754, 32767, 32756, 32767, 32757, 32767, 32758, 32767,
@@ -30,7 +31,8 @@ const int16_t AKWF_pluckalgo_0001[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0002.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0002[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0002[257] = {
    187,  1065,  2275,  3430,  4611,  5758,  6915,  8041,  9167,
  10261, 11348, 12404, 13444, 14452, 15442, 16399, 17331, 18230, 19103,
  19943, 20751, 21529, 22274, 22989, 23669, 24320, 24939, 25526, 26080,
@@ -60,7 +62,8 @@ const int16_t AKWF_pluckalgo_0002[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0003.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0003[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0003[257] = {
    234,   832,  1839,  3089,  4280,  5500,  6661,  7851,  9012,
  10143, 11247, 12371, 13431, 14459, 15490, 16494, 17421, 18349, 19269,
  20112, 20921, 21742, 22503, 23196, 23902, 24578, 25173, 25756, 26344,
@@ -90,7 +93,8 @@ const int16_t AKWF_pluckalgo_0003[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0004.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0004[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0004[257] = {
   1624,  6414,  9967, 11484, 12026, 12051, 12403, 13015, 13869,
  14478, 14871, 15160, 15854, 16993, 18252, 18884, 18588, 17607, 16556,
  15808, 15301, 14741, 13889, 12823, 11914, 11921, 13559, 17096, 21986,
@@ -120,7 +124,8 @@ const int16_t AKWF_pluckalgo_0004[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0005.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0005[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0005[257] = {
    301,  2078,  3757,  5248,  6829,  8293,  9784, 11170, 12546,
  13816, 15051, 16175, 17243, 18208, 19094, 19883, 20588, 21201, 21733,
  22182, 22553, 22855, 23083, 23261, 23376, 23455, 23488, 23497, 23480,
@@ -150,7 +155,8 @@ const int16_t AKWF_pluckalgo_0005[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0006.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0006[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0006[257] = {
     66,   669,  1465,  2331,  3160,  3893,  4571,  5260,  6008,
   6789,  7559,  8277,  8956,  9631, 10334, 11058, 11771, 12446, 13093,
  13731, 14381, 15041, 15687, 16303, 16886, 17461, 18042, 18626, 19196,
@@ -180,7 +186,8 @@ const int16_t AKWF_pluckalgo_0006[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0007.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0007[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0007[257] = {
    543,  2505,  4435,  6261,  8035,  9681, 11262, 12701, 14060,
  15247, 16327, 17204, 17927, 18414, 18714, 18772, 18635, 18277, 17766,
  17095, 16335, 15513, 14685, 13885, 13159, 12534, 12034, 11674, 11459,
@@ -210,7 +217,8 @@ const int16_t AKWF_pluckalgo_0007[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0008.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0008[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0008[257] = {
    136,  2149,  4098,  5954,  7841,  9793, 11899, 14165, 16583,
  19063, 21512, 23780, 25728, 27240, 28253, 28739, 28736, 28313, 27551,
  26535, 25335, 23991, 22517, 20924, 19207, 17382, 15498, 13650, 11965,
@@ -240,7 +248,8 @@ const int16_t AKWF_pluckalgo_0008[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_pluckalgo_0009.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_pluckalgo_0009[1025] = {
+// Length: 257
+const int16_t AKWF_pluckalgo_0009[257] = {
    160,  1062,  2203,  3380,  4435,  5300,  6048,  6776,  7540,
   8294,  8968,  9513,  9957, 10358, 10755, 11131, 11444, 11660, 11798,
  11900, 11999, 12090, 12139, 12129, 12066, 11992, 11928, 11876, 11810,

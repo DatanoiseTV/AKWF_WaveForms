@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_epiano_0001.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0001[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0001[257] = {
    208,  2455,  4662,  6962,  9282, 11666, 14063, 16354, 18639,
  20788, 22840, 24702, 26417, 27932, 29262, 30357, 31264, 31948, 32408,
  32673, 32767, 32580, 32319, 32041, 31422, 30881, 30181, 29389, 28672,
@@ -30,7 +31,8 @@ const int16_t AKWF_epiano_0001[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0002.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0002[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0002[257] = {
    142,   639,  1048,  1570,  2151,  2654,  3141,  3650,  4127,
   4617,  5135,  5616,  6100,  6638,  7153,  7606,  8077,  8620,  9163,
   9629, 10096, 10646, 11186, 11642, 12113, 12648, 13152, 13625, 14140,
@@ -60,7 +62,8 @@ const int16_t AKWF_epiano_0002[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0003.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0003[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0003[257] = {
    383,  2021,  3855,  5839,  7934, 10161, 12471, 14870, 17271,
  19583, 21821, 23914, 25823, 27511, 28990, 30207, 31159, 31911, 32396,
  32662, 32748, 32625, 32397, 32022, 31555, 31025, 30446, 29870, 29219,
@@ -90,7 +93,8 @@ const int16_t AKWF_epiano_0003[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0004.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0004[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0004[257] = {
     64,   761,  1464,  2150,  2797,  3400,  3965,  4498,  5003,
   5473,  5917,  6337,  6730,  7089,  7410,  7697,  7964,  8222,  8474,
   8706,  8908,  9074,  9215,  9350,  9495,  9659,  9826,  9981, 10113,
@@ -120,7 +124,8 @@ const int16_t AKWF_epiano_0004[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0005.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0005[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0005[257] = {
     43,   430,   849,  1252,  1649,  2039,  2451,  2804,  3167,
   3507,  3815,  4123,  4418,  4662,  4894,  5113,  5298,  5468,  5637,
   5754,  5880,  5996,  6088,  6162,  6229,  6292,  6340,  6393,  6439,
@@ -150,7 +155,8 @@ const int16_t AKWF_epiano_0005[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0006.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0006[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0006[257] = {
    290,  4809, 10108, 15000, 19716, 23749, 27178, 29725, 31543,
  32494, 32767, 32408, 31591, 30371, 28941, 27355, 25735, 24131, 22587,
  21137, 19769, 18503, 17338, 16261, 15241, 14303, 13431, 12627, 11860,
@@ -180,7 +186,8 @@ const int16_t AKWF_epiano_0006[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0007.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0007[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0007[257] = {
     20,   362,   779,  1265,  1843,  2505,  3251,  4063,  4927,
   5814,  6712,  7596,  8449,  9261, 10028, 10750, 11431, 12081, 12713,
  13338, 13967, 14609, 15269, 15947, 16638, 17340, 18042, 18735, 19411,
@@ -210,7 +217,8 @@ const int16_t AKWF_epiano_0007[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0008.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0008[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0008[257] = {
   1611, 10631, 19163, 26292, 30831, 32432, 31143, 27583, 22445,
  16589, 10737,  5653,  1952,   114,   293,  2308,  5503,  9030, 12070,
  14133, 15148, 15430, 15403, 15416, 15609, 15964, 16515, 17297, 18499,
@@ -240,7 +248,8 @@ const int16_t AKWF_epiano_0008[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0009.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0009[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0009[257] = {
    642,  3216,  5694,  8232, 10726, 13177, 15554, 17825, 19984,
  21996, 23879, 25569, 27106, 28431, 29585, 30530, 31324, 31913, 32362,
  32631, 32757, 32738, 32615, 32378, 32055, 31648, 31164, 30614, 30013,
@@ -270,7 +279,8 @@ const int16_t AKWF_epiano_0009[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0010.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0010[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0010[257] = {
    122,   943,  1857,  2803,  3804,  4846,  5927,  7036,  8189,
   9357, 10540, 11754, 12991, 14213, 15430, 16655, 17870, 19053, 20225,
  21374, 22474, 23532, 24559, 25542, 26465, 27341, 28160, 28910, 29600,
@@ -300,7 +310,8 @@ const int16_t AKWF_epiano_0010[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0011.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0011[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0011[257] = {
     30,   689,  1333,  1889,  2297,  2563,  2746,  2915,  3108,
   3311,  3490,  3616,  3691,  3745,  3803,  3865,  3919,  3947,  3949,
   3938,  3933,  3940,  3952,  3957,  3951,  3946,  3958,  3988,  4037,
@@ -330,7 +341,8 @@ const int16_t AKWF_epiano_0011[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0012.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0012[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0012[257] = {
    706,  3721,  5745,  8190, 10276, 12504, 14480, 16503, 18293,
  20068, 21650, 23181, 24539, 25813, 26941, 27980, 28903, 29709, 30418,
  31013, 31533, 31938, 32279, 32515, 32675, 32748, 32767, 32704, 32603,
@@ -360,7 +372,8 @@ const int16_t AKWF_epiano_0012[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0013.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0013[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0013[257] = {
    116,  3046,  4676,  5580,  6125,  5942,  6177,  6345,  6997,
   7921,  9271, 11155, 13445, 16520, 19275, 21955, 23790, 24307, 24515,
  23910, 23746, 24309, 24996, 26395, 27388, 28004, 28210, 27794, 27212,
@@ -390,7 +403,8 @@ const int16_t AKWF_epiano_0013[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0014.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0014[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0014[257] = {
    121,   751,  1631,  2730,  4013,  5405,  6793,  8046,  9052,
   9872, 10500, 11014, 11450, 11948, 12564, 13426, 14486, 15703, 16951,
  18080, 18940, 19507, 19809, 19914, 19995, 20109, 20378, 20838, 21529,
@@ -420,7 +434,8 @@ const int16_t AKWF_epiano_0014[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0015.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0015[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0015[257] = {
     31,   465,   959,  1325,  1446,  1684,  1863,  2165,  2767,
   3524,  4335,  5370,  6235,  6865,  7479,  7717,  7773,  7943,  8048,
   8304,  8951,  9699, 10582, 11674, 12584, 13313, 13953, 14226, 14303,
@@ -450,7 +465,8 @@ const int16_t AKWF_epiano_0015[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0016.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0016[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0016[257] = {
    629,  3858,  7451, 10973, 14278, 17048, 19114, 20334, 20788,
  20616, 20126, 19582, 19235, 19276, 19675, 20336, 21045, 21667, 22066,
  22208, 22153, 22004, 21833, 21752, 21657, 21492, 21079, 20231, 18935,
@@ -480,7 +496,8 @@ const int16_t AKWF_epiano_0016[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0017.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0017[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0017[257] = {
    892,  4158,  7754, 11266, 14569, 17281, 19292, 20454, 20863,
  20632, 19939, 19370, 19081, 19124, 19556, 20215, 20942, 21543, 21919,
  22041, 21960, 21793, 21655, 21564, 21487, 21310, 20874, 20007, 18664,
@@ -510,7 +527,8 @@ const int16_t AKWF_epiano_0017[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0018.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0018[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0018[257] = {
    179,  2749,  5171,  7668, 10120, 12558, 14903, 17175, 19316,
  21346, 23227, 24952, 26500, 27870, 29062, 30071, 30921, 31591, 32110,
  32467, 32682, 32765, 32730, 32589, 32356, 32036, 31643, 31172, 30656,
@@ -540,7 +558,8 @@ const int16_t AKWF_epiano_0018[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0019.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0019[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0019[257] = {
    105,   627,  1158,  1654,  2143,  2634,  3149,  3679,  4220,
   4752,  5284,  5817,  6365,  6927,  7500,  8075,  8653,  9237,  9838,
  10453, 11084, 11721, 12361, 13007, 13662, 14330, 15008, 15690, 16372,
@@ -570,7 +589,8 @@ const int16_t AKWF_epiano_0019[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0020.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0020[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0020[257] = {
   1576,  4282,  6206,  8522, 10520, 12696, 14629, 16636, 18437,
  20251, 21881, 23469, 24885, 26239, 27421, 28517, 29459, 30280, 30979,
  31547, 32005, 32347, 32588, 32719, 32764, 32717, 32623, 32437, 32222,
@@ -600,7 +620,8 @@ const int16_t AKWF_epiano_0020[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0021.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0021[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0021[257] = {
    182,   603,  1015,  1416,  1809,  2192,  2566,  2931,  3291,
   3639,  3982,  4318,  4652,  4979,  5303,  5626,  5947,  6266,  6587,
   6910,  7237,  7567,  7903,  8244,  8592,  8949,  9316,  9692, 10082,
@@ -630,7 +651,8 @@ const int16_t AKWF_epiano_0021[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0022.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0022[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0022[257] = {
    573,  4907,  9218, 13384, 17293, 20844, 23963, 26609, 28777,
  30470, 31704, 32475, 32767, 32584, 31909, 30761, 29179, 27226, 24987,
  22557, 20038, 17515, 15045, 12655, 10343,  8100,  5915,  3790,  1741,
@@ -660,7 +682,8 @@ const int16_t AKWF_epiano_0022[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0023.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0023[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0023[257] = {
    430,  2971,  5426,  7786, 10048, 12214, 14288, 16276, 18181,
  20004, 21747, 23404, 24966, 26424, 27767, 28976, 30036, 30927, 31637,
  32146, 32448, 32537, 32413, 32084, 31561, 30868, 30025, 29058, 27994,
@@ -690,7 +713,8 @@ const int16_t AKWF_epiano_0023[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0024.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0024[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0024[257] = {
    389,  2559,  4828,  7137,  9472, 11789, 14060, 16263, 18364,
  20339, 22182, 23864, 25393, 26764, 27973, 29026, 29931, 30686, 31315,
  31815, 32201, 32486, 32672, 32759, 32766, 32719, 32591, 32406, 32165,
@@ -720,7 +744,8 @@ const int16_t AKWF_epiano_0024[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0025.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0025[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0025[257] = {
     84,  1925,  3838,  5802,  7799,  9799, 11797, 13753, 15667,
  17523, 19300, 20986, 22575, 24042, 25392, 26625, 27737, 28729, 29594,
  30339, 30976, 31508, 31935, 32265, 32506, 32671, 32754, 32767, 32728,
@@ -750,7 +775,8 @@ const int16_t AKWF_epiano_0025[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0026.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0026[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0026[257] = {
    271,  2050,  3860,  5677,  7512,  9347, 11192, 13015, 14804,
  16546, 18229, 19843, 21385, 22834, 24191, 25450, 26600, 27648, 28587,
  29421, 30154, 30782, 31311, 31756, 32116, 32388, 32578, 32700, 32762,
@@ -780,7 +806,8 @@ const int16_t AKWF_epiano_0026[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0027.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0027[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0027[257] = {
    278,  2827,  5443,  8077, 10684, 13243, 15697, 18030, 20228,
  22256, 24104, 25768, 27236, 28519, 29622, 30546, 31289, 31873, 32307,
  32592, 32743, 32764, 32671, 32455, 32134, 31706, 31188, 30584, 29890,
@@ -810,7 +837,8 @@ const int16_t AKWF_epiano_0027[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0028.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0028[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0028[257] = {
    724,  3079,  5487,  7888, 10263, 12606, 14881, 17059, 19140,
  21076, 22879, 24543, 26045, 27392, 28574, 29603, 30478, 31200, 31783,
  32223, 32528, 32712, 32767, 32729, 32566, 32311, 31963, 31517, 31006,
@@ -840,7 +868,8 @@ const int16_t AKWF_epiano_0028[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0029.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0029[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0029[257] = {
    920,  3197,  5496,  7788, 10074, 12292, 14458, 16560, 18554,
  20438, 22191, 23827, 25331, 26685, 27896, 28972, 29900, 30687, 31344,
  31862, 32263, 32538, 32708, 32767, 32724, 32569, 32339, 32018, 31613,
@@ -870,7 +899,8 @@ const int16_t AKWF_epiano_0029[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0030.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0030[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0030[257] = {
   1117,  4626,  8308, 12021, 15611, 18933, 21909, 24459, 26594,
  28333, 29705, 30757, 31537, 32090, 32457, 32674, 32765, 32749, 32648,
  32467, 32222, 31917, 31554, 31142, 30680, 30174, 29624, 29036, 28413,
@@ -900,7 +930,8 @@ const int16_t AKWF_epiano_0030[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0031.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0031[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0031[257] = {
    378,  3260,  6332,  9504, 12662, 15734, 18637, 21286, 23655,
  25707, 27450, 28900, 30071, 30991, 31686, 32184, 32520, 32707, 32767,
  32726, 32588, 32370, 32076, 31721, 31308, 30841, 30333, 29776, 29183,
@@ -930,7 +961,8 @@ const int16_t AKWF_epiano_0031[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0032.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0032[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0032[257] = {
   1019,  4893,  8712, 12296, 15520, 18338, 20753, 22748, 24372,
  25661, 26671, 27446, 28031, 28456, 28753, 28935, 29024, 29027, 28949,
  28785, 28543, 28224, 27824, 27347, 26793, 26167, 25472, 24714, 23895,
@@ -960,7 +992,8 @@ const int16_t AKWF_epiano_0032[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0033.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0033[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0033[257] = {
    639,  4365,  8187, 11872, 15331, 18501, 21309, 23739, 25804,
  27514, 28920, 30052, 30936, 31614, 32113, 32460, 32672, 32763, 32745,
  32627, 32420, 32128, 31750, 31295, 30766, 30171, 29515, 28796, 28023,
@@ -990,7 +1023,8 @@ const int16_t AKWF_epiano_0033[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0034.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0034[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0034[257] = {
    209,   886,  1544,  2162,  2741,  3269,  3746,  4167,  4542,
   4872,  5175,  5459,  5738,  6019,  6315,  6627,  6958,  7312,  7691,
   8090,  8510,  8945,  9397,  9865, 10341, 10825, 11315, 11809, 12310,
@@ -1020,7 +1054,8 @@ const int16_t AKWF_epiano_0034[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0035.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0035[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0035[257] = {
    466,  1736,  2753,  3533,  4109,  4526,  4829,  5059,  5259,
   5452,  5676,  5941,  6261,  6627,  7047,  7500,  7983,  8490,  9012,
   9542, 10081, 10624, 11173, 11734, 12305, 12887, 13481, 14098, 14722,
@@ -1050,7 +1085,8 @@ const int16_t AKWF_epiano_0035[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0036.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0036[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0036[257] = {
     78,  2543,  5074,  7637, 10200, 12726, 15198, 17563, 19797,
  21873, 23770, 25483, 27009, 28338, 29482, 30437, 31213, 31828, 32276,
  32580, 32740, 32765, 32672, 32458, 32132, 31704, 31180, 30556, 29848,
@@ -1080,7 +1116,8 @@ const int16_t AKWF_epiano_0036[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0037.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0037[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0037[257] = {
    750,  3128,  5539,  7933, 10322, 12672, 14947, 17133, 19207,
  21143, 22955, 24611, 26112, 27458, 28635, 29656, 30522, 31238, 31808,
  32242, 32543, 32715, 32767, 32707, 32540, 32277, 31917, 31468, 30936,
@@ -1110,7 +1147,8 @@ const int16_t AKWF_epiano_0037[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0038.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0038[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0038[257] = {
   1085,  8963, 16227, 22131, 26363, 29111, 30718, 31560, 31971,
  32166, 32305, 32430, 32562, 32674, 32750, 32767, 32735, 32640, 32500,
  32311, 32080, 31813, 31508, 31163, 30773, 30338, 29854, 29313, 28713,
@@ -1140,7 +1178,8 @@ const int16_t AKWF_epiano_0038[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0039.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0039[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0039[257] = {
    173,  3295,  6646, 10069, 13477, 16743, 19757, 22458, 24802,
  26772, 28406, 29715, 30739, 31511, 32066, 32443, 32666, 32761, 32747,
  32640, 32454, 32197, 31878, 31505, 31076, 30605, 30087, 29526, 28928,
@@ -1170,7 +1209,8 @@ const int16_t AKWF_epiano_0039[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0040.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0040[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0040[257] = {
    459,  2560,  4719,  6887,  9086, 11283, 13442, 15546, 17567,
  19480, 21294, 22977, 24525, 25924, 27187, 28310, 29288, 30132, 30842,
  31426, 31896, 32258, 32516, 32683, 32759, 32759, 32689, 32550, 32353,
@@ -1200,7 +1240,8 @@ const int16_t AKWF_epiano_0040[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0041.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0041[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0041[257] = {
    169,  1942,  3755,  5596,  7455,  9321, 11171, 13004, 14816,
  16568, 18262, 19886, 21425, 22881, 24241, 25498, 26651, 27694, 28634,
  29467, 30194, 30825, 31360, 31795, 32144, 32415, 32605, 32720, 32765,
@@ -1230,7 +1271,8 @@ const int16_t AKWF_epiano_0041[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0042.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0042[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0042[257] = {
    329,  2034,  3796,  5568,  7358,  9143, 10907, 12658, 14380,
  16061, 17682, 19243, 20743, 22161, 23498, 24751, 25910, 26974, 27945,
  28819, 29597, 30277, 30869, 31375, 31789, 32123, 32388, 32577, 32699,
@@ -1260,7 +1302,8 @@ const int16_t AKWF_epiano_0042[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0043.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0043[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0043[257] = {
    167,  2637,  5170,  7727, 10268, 12759, 15195, 17515, 19711,
  21753, 23620, 25319, 26835, 28165, 29316, 30282, 31077, 31712, 32189,
  32519, 32712, 32767, 32714, 32539, 32256, 31871, 31392, 30828, 30173,
@@ -1290,7 +1333,8 @@ const int16_t AKWF_epiano_0043[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0044.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0044[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0044[257] = {
    715,  3034,  5381,  7737, 10088, 12388, 14635, 16789, 18837,
  20772, 22578, 24245, 25752, 27112, 28325, 29375, 30279, 31032, 31642,
  32119, 32455, 32671, 32765, 32742, 32614, 32380, 32055, 31636, 31135,
@@ -1320,7 +1364,8 @@ const int16_t AKWF_epiano_0044[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0045.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0045[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0045[257] = {
    646,  2901,  5202,  7478,  9734, 11958, 14121, 16208, 18206,
  20092, 21862, 23516, 25029, 26409, 27648, 28731, 29689, 30507, 31189,
  31739, 32169, 32476, 32676, 32767, 32752, 32651, 32453, 32166, 31807,
@@ -1350,7 +1395,8 @@ const int16_t AKWF_epiano_0045[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0046.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0046[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0046[257] = {
    763,  4456,  8276, 12109, 15812, 19237, 22302, 24914, 27071,
  28793, 30118, 31100, 31799, 32277, 32575, 32728, 32767, 32709, 32573,
  32363, 32094, 31768, 31391, 30968, 30500, 29988, 29436, 28843, 28211,
@@ -1380,7 +1426,8 @@ const int16_t AKWF_epiano_0046[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0047.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0047[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0047[257] = {
     37,  2684,  5520,  8467, 11471, 14425, 17270, 19929, 22349,
  24516, 26408, 28011, 29348, 30419, 31255, 31889, 32330, 32610, 32748,
  32763, 32673, 32489, 32225, 31892, 31496, 31046, 30547, 30003, 29422,
@@ -1410,7 +1457,8 @@ const int16_t AKWF_epiano_0047[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0048.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0048[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0048[257] = {
    981,  3423,  5987,  8637, 11328, 13989, 16599, 19078, 21404,
  23547, 25473, 27165, 28614, 29818, 30793, 31551, 32105, 32474, 32689,
  32767, 32726, 32588, 32357, 32059, 31697, 31283, 30822, 30314, 29773,
@@ -1440,7 +1488,8 @@ const int16_t AKWF_epiano_0048[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0049.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0049[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0049[257] = {
    866,  4166,  7484, 10751, 13879, 16820, 19528, 21960, 24131,
  26022, 27639, 28999, 30113, 30999, 31689, 32190, 32528, 32718, 32767,
  32714, 32543, 32272, 31912, 31470, 30946, 30353, 29695, 28978, 28214,
@@ -1470,7 +1519,8 @@ const int16_t AKWF_epiano_0049[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0050.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0050[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0050[257] = {
    218,  2170,  4188,  6248,  8323, 10411, 12485, 14513, 16489,
  18376, 20171, 21868, 23444, 24897, 26222, 27408, 28468, 29397, 30202,
  30882, 31444, 31899, 32251, 32508, 32671, 32753, 32763, 32702, 32581,
@@ -1500,7 +1550,8 @@ const int16_t AKWF_epiano_0050[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0051.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0051[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0051[257] = {
    473,  2717,  5108,  7615, 10211, 12813, 15351, 17764, 19985,
  21983, 23747, 25251, 26510, 27526, 28319, 28911, 29317, 29556, 29644,
  29591, 29414, 29116, 28707, 28188, 27566, 26849, 26029, 25111, 24101,
@@ -1530,7 +1581,8 @@ const int16_t AKWF_epiano_0051[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0052.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0052[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0052[257] = {
    320,  2695,  5133,  7584, 10040, 12449, 14802, 17072, 19234,
  21253, 23122, 24836, 26377, 27748, 28939, 29953, 30803, 31491, 32023,
  32406, 32648, 32759, 32745, 32610, 32364, 32016, 31568, 31028, 30400,
@@ -1560,7 +1612,8 @@ const int16_t AKWF_epiano_0052[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0053.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0053[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0053[257] = {
    829,  3151,  5497,  7840, 10175, 12468, 14700, 16839, 18872,
  20794, 22590, 24243, 25745, 27102, 28307, 29356, 30261, 31013, 31622,
  32098, 32441, 32659, 32762, 32747, 32626, 32409, 32095, 31696, 31215,
@@ -1590,7 +1643,8 @@ const int16_t AKWF_epiano_0053[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0054.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0054[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0054[257] = {
   2361, 10382, 17512, 23028, 26833, 29195, 30499, 31156, 31490,
  31707, 31918, 32147, 32375, 32569, 32702, 32765, 32751, 32668, 32526,
  32336, 32103, 31836, 31537, 31208, 30848, 30454, 30018, 29536, 28999,
@@ -1620,7 +1674,8 @@ const int16_t AKWF_epiano_0054[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0055.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0055[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0055[257] = {
     75,  3083,  6317,  9668, 13001, 16221, 19212, 21908, 24290,
  26318, 28008, 29383, 30463, 31294, 31909, 32336, 32606, 32742, 32765,
  32691, 32535, 32305, 32010, 31658, 31250, 30793, 30289, 29743, 29160,
@@ -1650,7 +1705,8 @@ const int16_t AKWF_epiano_0055[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0056.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0056[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0056[257] = {
    492,  2004,  3488,  4962,  6426,  7862,  9282, 10671, 12023,
  13350, 14647, 15908, 17127, 18298, 19430, 20525, 21572, 22570, 23527,
  24431, 25287, 26099, 26864, 27578, 28241, 28863, 29433, 29956, 30435,
@@ -1680,7 +1736,8 @@ const int16_t AKWF_epiano_0056[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0057.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0057[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0057[257] = {
    315,  1672,  3025,  4363,  5705,  7036,  8340,  9629, 10912,
  12167, 13396, 14603, 15777, 16919, 18033, 19113, 20162, 21171, 22140,
  23076, 23968, 24813, 25624, 26388, 27106, 27789, 28429, 29026, 29576,
@@ -1710,7 +1767,8 @@ const int16_t AKWF_epiano_0057[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0058.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0058[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0058[257] = {
    502,  1793,  3096,  4403,  5703,  6988,  8264,  9530, 10771,
  11983, 13197, 14382, 15529, 16651, 17748, 18823, 19865, 20865, 21836,
  22767, 23657, 24499, 25305, 26077, 26808, 27498, 28142, 28752, 29316,
@@ -1740,7 +1798,8 @@ const int16_t AKWF_epiano_0058[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0059.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0059[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0059[257] = {
    142,  2289,  4448,  6578,  8689, 10763, 12786, 14755, 16653,
  18462, 20197, 21828, 23364, 24795, 26105, 27314, 28401, 29367, 30211,
  30935, 31535, 32015, 32380, 32625, 32750, 32763, 32666, 32465, 32156,
@@ -1770,7 +1829,8 @@ const int16_t AKWF_epiano_0059[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0060.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0060[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0060[257] = {
    521,  2548,  4580,  6595,  8574, 10529, 12420, 14268, 16072,
  17791, 19435, 20993, 22467, 23854, 25146, 26348, 27444, 28431, 29317,
  30113, 30793, 31373, 31851, 32226, 32505, 32677, 32760, 32748, 32656,
@@ -1800,7 +1860,8 @@ const int16_t AKWF_epiano_0060[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0061.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0061[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0061[257] = {
    398,  2306,  4224,  6124,  7986,  9828, 11618, 13365, 15063,
  16680, 18238, 19713, 21126, 22451, 23694, 24834, 25892, 26864, 27744,
  28528, 29206, 29817, 30313, 30726, 31036, 31267, 31412, 31475, 31454,
@@ -1830,7 +1891,8 @@ const int16_t AKWF_epiano_0061[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0062.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0062[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0062[257] = {
    307,  2981,  5750,  8519, 11249, 13908, 16441, 18815, 21016,
  23009, 24811, 26413, 27805, 29006, 30016, 30846, 31517, 32028, 32398,
  32638, 32751, 32758, 32663, 32476, 32202, 31853, 31436, 30954, 30415,
@@ -1860,7 +1922,8 @@ const int16_t AKWF_epiano_0062[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0063.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0063[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0063[257] = {
    195,  2495,  4901,  7364,  9837, 12296, 14682, 16974, 19161,
  21204, 23089, 24808, 26343, 27709, 28897, 29913, 30754, 31434, 31973,
  32358, 32614, 32745, 32764, 32681, 32498, 32232, 31885, 31467, 30986,
@@ -1890,7 +1953,8 @@ const int16_t AKWF_epiano_0063[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0064.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0064[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0064[257] = {
    567,  2790,  5097,  7471,  9864, 12239, 14580, 16830, 18979,
  21008, 22896, 24625, 26184, 27559, 28768, 29805, 30675, 31378, 31930,
  32329, 32598, 32743, 32767, 32687, 32505, 32244, 31897, 31480, 30994,
@@ -1920,7 +1984,8 @@ const int16_t AKWF_epiano_0064[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0065.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0065[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0065[257] = {
    385,  1982,  3571,  5127,  6638,  8099,  9499, 10845, 12134,
  13353, 14519, 15609, 16626, 17587, 18475, 19293, 20041, 20735, 21369,
  21928, 22435, 22890, 23280, 23621, 23914, 24154, 24347, 24497, 24597,
@@ -1950,7 +2015,8 @@ const int16_t AKWF_epiano_0065[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0066.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0066[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0066[257] = {
    608,  2175,  3708,  5203,  6685,  8143,  9581, 10975, 12344,
  13674, 14968, 16223, 17433, 18601, 19726, 20800, 21833, 22819, 23753,
  24638, 25477, 26271, 27021, 27718, 28358, 28960, 29519, 30032, 30495,
@@ -1980,7 +2046,8 @@ const int16_t AKWF_epiano_0066[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0067.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0067[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0067[257] = {
    488,  1870,  3264,  4653,  6030,  7392,  8744, 10076, 11381,
  12652, 13904, 15132, 16323, 17483, 18606, 19687, 20732, 21733, 22698,
  23623, 24500, 25336, 26134, 26889, 27591, 28244, 28854, 29425, 29954,
@@ -2010,7 +2077,8 @@ const int16_t AKWF_epiano_0067[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0068.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0068[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0068[257] = {
     65,  2248,  4455,  6661,  8842, 10993, 13112, 15153, 17140,
  19024, 20821, 22523, 24104, 25575, 26917, 28126, 29205, 30146, 30947,
  31607, 32114, 32475, 32697, 32767, 32688, 32469, 32108, 31609, 30980,
@@ -2040,7 +2108,8 @@ const int16_t AKWF_epiano_0068[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0069.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0069[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0069[257] = {
    374,  1653,  3910,  5988,  8116, 10186, 12224, 14201, 16111,
  17944, 19684, 21357, 22906, 24378, 25716, 26962, 28076, 29091, 29963,
  30733, 31363, 31893, 32279, 32564, 32719, 32767, 32698, 32524, 32244,
@@ -2070,7 +2139,8 @@ const int16_t AKWF_epiano_0069[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0070.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0070[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0070[257] = {
    948,  3231,  5255,  7314,  9321, 11300, 13222, 15100, 16889,
  18613, 20260, 21819, 23294, 24653, 25926, 27081, 28143, 29084, 29929,
  30658, 31276, 31780, 32184, 32482, 32673, 32762, 32752, 32644, 32450,
@@ -2100,7 +2170,8 @@ const int16_t AKWF_epiano_0070[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0071.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0071[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0071[257] = {
    341,  3840,  7278, 10579, 13684, 16539, 19148, 21473, 23540,
  25357, 26932, 28277, 29405, 30341, 31099, 31695, 32146, 32462, 32664,
  32758, 32756, 32668, 32498, 32257, 31943, 31560, 31111, 30595, 30016,
@@ -2130,7 +2201,8 @@ const int16_t AKWF_epiano_0071[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0072.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0072[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0072[257] = {
    493,  3126,  5851,  8581, 11288, 13902, 16392, 18741, 20919,
  22906, 24700, 26287, 27680, 28886, 29905, 30749, 31427, 31955, 32344,
  32598, 32737, 32766, 32694, 32532, 32283, 31961, 31568, 31111, 30594,
@@ -2160,7 +2232,8 @@ const int16_t AKWF_epiano_0072[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_epiano_0073.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_epiano_0073[1025] = {
+// Length: 257
+const int16_t AKWF_epiano_0073[257] = {
    170,  2412,  4752,  7157,  9577, 11994, 14352, 16622, 18802,
  20845, 22746, 24486, 26046, 27442, 28662, 29708, 30590, 31305, 31866,
  32286, 32572, 32727, 32767, 32704, 32539, 32284, 31951, 31545, 31075,

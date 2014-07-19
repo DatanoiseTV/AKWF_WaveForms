@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_sin5bit.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_sin5bit[1025] = {
+// Length: 257
+const int16_t AKWF_sin5bit[257] = {
   1555,  3800,  2953,  3600,  2972,  3702,  2645,  6094,  9704,
   8979,  9336,  9143,  9225,  9259,  9024, 13641, 15637, 14734, 15465,
  14735, 15568, 14389, 18361, 21440, 20845, 21065, 20999, 20960, 21070,

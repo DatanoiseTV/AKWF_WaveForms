@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_cheeze_0001.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cheeze_0001[1025] = {
+// Length: 257
+const int16_t AKWF_cheeze_0001[257] = {
    103,   990,  1613,  2326,  2985,  3680,  4345,  5031,  5697,
   6376,  7042,  7708,  8374,  9034,  9692, 10344, 10993, 11636, 12283,
  12916, 13551, 14173, 14798, 15411, 16023, 16624, 17220, 17809, 18393,
@@ -30,7 +31,8 @@ const int16_t AKWF_cheeze_0001[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cheeze_0002.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cheeze_0002[1025] = {
+// Length: 257
+const int16_t AKWF_cheeze_0002[257] = {
    -22,   404,   998,  1586,  2169,  2760,  3346,  3936,  4521,
   5102,  5683,  6268,  6847,  7427,  7997,  8578,  9147,  9719, 10284,
  10848, 11412, 11971, 12528, 13084, 13631, 14176, 14721, 15260, 15795,
@@ -60,7 +62,8 @@ const int16_t AKWF_cheeze_0002[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cheeze_0003.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cheeze_0003[1025] = {
+// Length: 257
+const int16_t AKWF_cheeze_0003[257] = {
     15,   427,   976,  1475,  2005,  2510,  3034,  3543,  4063,
   4574,  5089,  5599,  6112,  6620,  7132,  7640,  8144,  8649,  9156,
   9658, 10159, 10660, 11152, 11653, 12142, 12635, 13124, 13610, 14093,
@@ -90,7 +93,8 @@ const int16_t AKWF_cheeze_0003[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cheeze_0004.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cheeze_0004[1025] = {
+// Length: 257
+const int16_t AKWF_cheeze_0004[257] = {
     12,   620,  1038,  1520,  1966,  2438,  2891,  3355,  3808,
   4271,  4728,  5190,  5645,  6098,  6555,  7010,  7466,  7917,  8371,
   8820,  9273,  9720, 10171, 10614, 11061, 11503, 11947, 12388, 12829,
@@ -120,7 +124,8 @@ const int16_t AKWF_cheeze_0004[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cheeze_0005.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cheeze_0005[1025] = {
+// Length: 257
+const int16_t AKWF_cheeze_0005[257] = {
    138,   546,   966,  1374,  1794,  2206,  2624,  3037,  3455,
   3862,  4279,  4690,  5106,  5517,  5928,  6338,  6750,  7159,  7571,
   7977,  8385,  8792,  9198,  9606, 10012, 10413, 10815, 11216, 11620,
@@ -150,7 +155,8 @@ const int16_t AKWF_cheeze_0005[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_cheeze_0006.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_cheeze_0006[1025] = {
+// Length: 257
+const int16_t AKWF_cheeze_0006[257] = {
     32,   431,   809,  1197,  1583,  1969,  2356,  2741,  3127,
   3513,  3897,  4282,  4667,  5049,  5434,  5817,  6198,  6578,  6960,
   7343,  7726,  8105,  8485,  8864,  9241,  9620,  9996, 10373, 10747,

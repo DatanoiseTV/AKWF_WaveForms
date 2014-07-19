@@ -1,6 +1,7 @@
 // Converted by AKWF2Teensy from AKWF_tri.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri[1025] = {
+// Length: 257
+const int16_t AKWF_tri[257] = {
    219,   730,  1242,  1753,  2265,  2778,  3289,  3802,  4314,
   4825,  5338,  5850,  6362,  6873,  7387,  7899,  8410,  8921,  9433,
   9946, 10458, 10970, 11482, 11995, 12506, 13018, 13531, 14042, 14554,
@@ -30,7 +31,8 @@ const int16_t AKWF_tri[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0001.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0001[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0001[257] = {
     28,   646,  1290,  1911,  2536,  3143,  3749,  4342,  4932,
   5509,  6084,  6648,  7207,  7755,  8299,  8834,  9362,  9882, 10397,
  10904, 11404, 11898, 12385, 12866, 13337, 13806, 14266, 14720, 15168,
@@ -60,7 +62,8 @@ const int16_t AKWF_tri_0001[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0002.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0002[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0002[257] = {
    195,   707,  1210,  1739,  2270,  2819,  3370,  3933,  4502,
   5078,  5661,  6251,  6845,  7446,  8051,  8662,  9277,  9893, 10515,
  11140, 11766, 12393, 13023, 13652, 14280, 14908, 15536, 16161, 16785,
@@ -90,7 +93,8 @@ const int16_t AKWF_tri_0002[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0003.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0003[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0003[257] = {
    276,  1173,  1910,  2676,  3392,  4127,  4852,  5631,  6460,
   7377,  8376,  9483, 10689, 11999, 13388, 14837, 16318, 17813, 19298,
  20748, 22144, 23465, 24702, 25842, 26882, 27816, 28648, 29376, 30011,
@@ -120,7 +124,8 @@ const int16_t AKWF_tri_0003[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0004.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0004[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0004[257] = {
    106,   978,  1738,  2498,  3226,  3955,  4681,  5445,  6262,
   7157,  8138,  9219, 10404, 11692, 13065, 14504, 15981, 17474, 18965,
  20425, 21837, 23177, 24434, 25597, 26660, 27619, 28474, 29224, 29880,
@@ -150,7 +155,8 @@ const int16_t AKWF_tri_0004[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0005.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0005[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0005[257] = {
     64,   620,  1178,  1734,  2291,  2849,  3406,  3963,  4521,
   5077,  5635,  6192,  6749,  7306,  7864,  8421,  8978,  9534, 10093,
  10649, 11207, 11764, 12322, 12879, 13435, 13993, 14551, 15108, 15665,
@@ -180,7 +186,8 @@ const int16_t AKWF_tri_0005[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0006.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0006[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0006[257] = {
     99,   963,  1811,  2641,  3457,  4260,  5046,  5818,  6577,
   7321,  8053,  8772,  9479, 10174, 10856, 11527, 12187, 12835, 13474,
  14101, 14719, 15326, 15925, 16514, 17092, 17663, 18225, 18778, 19323,
@@ -210,7 +217,8 @@ const int16_t AKWF_tri_0006[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0007.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0007[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0007[257] = {
     28,   481,   921,  1346,  1761,  2166,  2563,  2952,  3339,
   3720,  4102,  4485,  4870,  5258,  5653,  6053,  6462,  6878,  7305,
   7742,  8190,  8650,  9120,  9602, 10094, 10598, 11112, 11636, 12169,
@@ -240,7 +248,8 @@ const int16_t AKWF_tri_0007[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0008.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0008[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0008[257] = {
     13,   860,  1597,  2357,  3086,  3817,  4540,  5243,  5946,
   6639,  7312,  7978,  8632,  9302,  9925, 10519, 11146, 11753, 12351,
  12933, 13496, 14051, 14599, 15128, 15659, 16169, 16666, 17165, 17637,
@@ -270,7 +279,8 @@ const int16_t AKWF_tri_0008[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0009.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0009[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0009[257] = {
     23,   513,  1005,  1497,  1988,  2480,  2975,  3466,  3961,
   4453,  4945,  5437,  5929,  6423,  6916,  7407,  7899,  8392,  8886,
   9377,  9871, 10363, 10855, 11349, 11841, 12333, 12825, 13317, 13812,
@@ -300,7 +310,8 @@ const int16_t AKWF_tri_0009[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0010.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0010[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0010[257] = {
     15,   472,   927,  1382,  1837,  2291,  2745,  3198,  3652,
   4102,  4554,  5006,  5457,  5908,  6360,  6812,  7263,  7713,  8165,
   8617,  9068,  9520,  9970, 10421, 10873, 11325, 11777, 12228, 12680,
@@ -330,7 +341,8 @@ const int16_t AKWF_tri_0010[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0011.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0011[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0011[257] = {
     48,   163,   270,   358,   434,   504,   557,   594,   628,
    644,   651,   658,   687,   720,   767,   834,   912,   998,  1103,
   1226,  1354,  1502,  1669,  1849,  2038,  2249,  2478,  2714,  2973,
@@ -360,7 +372,8 @@ const int16_t AKWF_tri_0011[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0012.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0012[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0012[257] = {
      1,   118,   225,   323,   406,   475,   538,   586,   620,
    643,   660,   673,   702,   749,   807,   873,   957,  1056,  1164,
   1290,  1433,  1588,  1755,  1943,  2144,  2357,  2590,  2840,  3104,
@@ -390,7 +403,8 @@ const int16_t AKWF_tri_0012[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0013.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0013[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0013[257] = {
     18,   135,   242,   339,   422,   491,   554,   605,   641,
    667,   698,   735,   790,   858,   939,  1031,  1138,  1261,  1395,
   1545,  1711,  1892,  2083,  2295,  2520,  2757,  3013,  3285,  3573,
@@ -420,7 +434,8 @@ const int16_t AKWF_tri_0013[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0014.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0014[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0014[257] = {
     39,   162,   277,   382,   473,   553,   626,   684,   739,
    807,   891,   982,  1089,  1210,  1341,  1487,  1650,  1824,  2011,
   2213,  2431,  2659,  2903,  3166,  3438,  3724,  4029,  4348,  4678,
@@ -450,7 +465,8 @@ const int16_t AKWF_tri_0014[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0015.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0015[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0015[257] = {
     11,   159,   297,   425,   542,   649,   750,   848,   961,
   1088,  1230,  1381,  1548,  1729,  1922,  2126,  2347,  2578,  2823,
   3082,  3356,  3642,  3941,  4257,  4582,  4922,  5279,  5648,  6030,
@@ -480,7 +496,8 @@ const int16_t AKWF_tri_0015[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0016.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0016[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0016[257] = {
     15,   221,   419,   605,   783,   959,  1149,  1350,  1566,
   1793,  2035,  2286,  2551,  2828,  3115,  3415,  3729,  4051,  4386,
   4734,  5092,  5460,  5843,  6236,  6638,  7053,  7480,  7917,  8365,
@@ -510,7 +527,8 @@ const int16_t AKWF_tri_0016[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0017.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0017[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0017[257] = {
     45,   353,   654,   946,  1242,  1551,  1873,  2206,  2553,
   2907,  3272,  3645,  4031,  4424,  4825,  5237,  5655,  6080,  6516,
   6959,  7407,  7864,  8330,  8802,  9277,  9763, 10256, 10751, 11255,
@@ -540,7 +558,8 @@ const int16_t AKWF_tri_0017[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0018.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0018[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0018[257] = {
      2,   508,  1017,  1528,  2041,  2560,  3084,  3604,  4130,
   4653,  5180,  5706,  6232,  6758,  7285,  7810,  8337,  8862,  9388,
   9913, 10439, 10963, 11489, 12015, 12537, 13061, 13585, 14106, 14629,
@@ -570,7 +589,8 @@ const int16_t AKWF_tri_0018[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0019.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0019[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0019[257] = {
    198,   979,  1780,  2554,  3296,  4017,  4722,  5403,  6071,
   6722,  7360,  7985,  8601,  9206,  9798, 10383, 10961, 11529, 12090,
  12643, 13192, 13731, 14266, 14797, 15319, 15836, 16350, 16859, 17361,
@@ -600,7 +620,8 @@ const int16_t AKWF_tri_0019[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0020.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0020[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0020[257] = {
    355,  1455,  2541,  3519,  4428,  5284,  6098,  6873,  7616,
   8329,  9021,  9691, 10340, 10973, 11589, 12189, 12777, 13351, 13914,
  14467, 15008, 15542, 16066, 16582, 17088, 17587, 18079, 18565, 19043,
@@ -630,7 +651,8 @@ const int16_t AKWF_tri_0020[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0021.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0021[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0021[257] = {
    602,  2564,  4200,  5472,  6618,  7642,  8583,  9454, 10276,
  11042, 11778, 12476, 13148, 13787, 14410, 15007, 15585, 16146, 16691,
  17220, 17736, 18239, 18729, 19207, 19676, 20135, 20584, 21023, 21454,
@@ -660,7 +682,8 @@ const int16_t AKWF_tri_0021[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0022.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0022[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0022[257] = {
    106,  3539,  5907,  7324,  8648,  9767, 10781, 11687, 12544,
  13321, 14070, 14762, 15431, 16056, 16665, 17241, 17800, 18330, 18850,
  19348, 19832, 20299, 20754, 21197, 21624, 22044, 22451, 22848, 23235,
@@ -690,7 +713,8 @@ const int16_t AKWF_tri_0022[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0023.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0023[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0023[257] = {
   1661,  6433,  8364,  9799, 11154, 12271, 13272, 14182, 15022,
  15790, 16521, 17193, 17843, 18441, 19029, 19569, 20104, 20598, 21090,
  21547, 22002, 22426, 22850, 23247, 23639, 24015, 24384, 24735, 25083,
@@ -720,7 +744,8 @@ const int16_t AKWF_tri_0023[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0024.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0024[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0024[257] = {
   1714,  7567,  9487, 10941, 12359, 13494, 14509, 15433, 16278,
  17047, 17780, 18444, 19093, 19677, 20261, 20785, 21312, 21787, 22268,
  22705, 23147, 23551, 23959, 24333, 24708, 25058, 25408, 25736, 26061,
@@ -750,7 +775,8 @@ const int16_t AKWF_tri_0024[1025] = {
 };
 // Converted by AKWF2Teensy from AKWF_tri_0025.wav.
 // AKWF2Teensy - Beerware by Datanoise.net.
-const int16_t AKWF_tri_0025[1025] = {
+// Length: 257
+const int16_t AKWF_tri_0025[257] = {
   1751,  8018,  9991, 11486, 12953, 14121, 15160, 16102, 16964,
  17742, 18485, 19154, 19807, 20393, 20976, 21498, 22026, 22495, 22974,
  23404, 23840, 24233, 24635, 24999, 25366, 25705, 26044, 26359, 26674,
